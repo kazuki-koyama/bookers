@@ -23,3 +23,28 @@ td {
 h1, h2 {
   margin: 16px 0;
 }
+ul {
+  margin: 33px;
+}
+
+.notice {
+  color: green;
+}
+.error-explanation {
+  border: solid 2px red;
+  width: 450px;
+  padding: 7px;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+.error-explanation h4 {
+  color: #fff;
+  background-color: #c00;
+  margin: -7px;
+  padding: 5px 5px 5px 15px;
+  font-weight: bold;
+  font-size: 12px;
+}
+.error-explanation li {
+  font-size: 12px;
+}
