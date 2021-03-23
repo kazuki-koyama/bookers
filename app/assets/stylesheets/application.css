@@ -26,6 +26,9 @@ h1, h2 {
 ul {
   margin: 33px;
 }
+label {
+  display: block;
+}
 
 .notice {
   color: green;
@@ -47,4 +50,9 @@ ul {
 }
 .error-explanation li {
   font-size: 12px;
+}
+.field_with_errors {
+  background-color: red;
+  padding: 2px;
+  display: table;
 }
